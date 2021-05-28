@@ -40,8 +40,8 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="112.43794"
-     inkscape:cy="264.57387"
+     inkscape:cx="-100.79645"
+     inkscape:cy="256.97549"
      inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -247,19 +247,19 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1488"
-       x="-0.7079399"
-       width="2.4158798"
-       y="-0.76605133"
-       height="2.5321027">
+       id="filter1042"
+       x="-0.30107609"
+       width="1.6021522"
+       y="-0.32579"
+       height="1.65158">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="106.59985"
-         id="feGaussianBlur1490" />
+         stdDeviation="45.335298"
+         id="feGaussianBlur1044" />
     </filter>
   </defs>
   <g
-     id="g1510">
+     id="g1064">
     <circle
        id="shape0"
        cx="210.99452"
@@ -373,7 +373,7 @@
     <g
        id="g1426"
        transform="translate(5.7208555,6.4094694)"
-       style="opacity:0.82664575;fill:#364c53;fill-opacity:1;filter:url(#filter1488)"
+       style="opacity:0.97270014;fill:#364c53;fill-opacity:1;filter:url(#filter1042)"
        clip-path="url(#clipPath1434)">
       <rect
          style="opacity:1;fill:#364c53;fill-opacity:1;stroke:#000000;stroke-width:0.946451;stroke-opacity:0"
