@@ -25,6 +25,10 @@ Currently, in the company that I work for we have a CLI (Command Line Interface)
 
 The tools currently works in Python, [R](https://www.r-project.org/), [Node.js](https://nodejs.org/en/) and [Julia](https://julialang.org/) projects. So far, so good. But the turning point is the following: **I DON'T HAVE ANY OF THOSE LANGUAGES INSTALLED IN MY MACHINE**
 
+The basic flow for now is something like this:
+
+![flow](./assets/img/flow.jpg)
+
 All the company projects have a `Dockerfile` in it; so the CLI does the following:
 
 1. Build the current Dockerfile as a helper container
