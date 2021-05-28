@@ -38,6 +38,7 @@ Currently, in the company that I work for we have a CLI (Command Line Interface)
 - [Crocotta](github.com/Fazendaaa/Crocotta): SOC assisted guider
 - [Changeling](https://github.com/Fazendaaa/Changeling): Recipes for Succubus and Baba Yaga
 - [Rakshasa](https://github.com/Fazendaaa/Rakshasa): CI/CD translator
+- [Oni](https://github.com/Fazendaaa/Oni): A CLI tool to unify CFD projects
 
 The tools currently works in Python, [R](https://www.r-project.org/), [Node.js](https://nodejs.org/en/) and [Julia](https://julialang.org/) projects. So far, so good. But the turning point is the following: **I DON'T HAVE ANY OF THOSE LANGUAGES INSTALLED IN MY MACHINE**
 
